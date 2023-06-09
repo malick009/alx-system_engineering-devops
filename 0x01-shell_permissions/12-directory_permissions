@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir chmod drwxr-w--x my_dir
